@@ -1,4 +1,4 @@
-# UX sketch (password protected)
+UX sketch (password protected)
 
 An interactive sketch of a desktop music-production interface. The page is encrypted: open it and enter the password you were given.
 
